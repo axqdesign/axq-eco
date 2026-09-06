@@ -7,8 +7,10 @@
   "type": "module",
   "bin": { "axq-generate-tokens": "./src/generate.ts" },
   "scripts": {
-    "run": "tsx src/generate.ts",
-    "check": "tsx src/generate.ts --check"
+    "build":     "tsc --project tsconfig.json",
+    "typecheck": "tsc --project tsconfig.json --noEmit",
+    "run":       "tsx src/generate.ts",
+    "check":     "tsx src/generate.ts --check"
   },
   "dependencies": {
     "prettier": "^3.2.5"

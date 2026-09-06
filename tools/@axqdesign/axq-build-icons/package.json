@@ -7,8 +7,10 @@
   "type": "module",
   "bin": { "axq-build-icons": "./src/build.ts" },
   "scripts": {
-    "run": "tsx src/build.ts",
-    "run:list": "tsx src/build.ts --list-only"
+    "build":     "tsc --project tsconfig.json",
+    "typecheck": "tsc --project tsconfig.json --noEmit",
+    "run":       "tsx src/build.ts",
+    "run:list":  "tsx src/build.ts --list-only"
   },
   "dependencies": {
     "cheerio": "^1.0.0",

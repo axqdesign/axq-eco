@@ -7,7 +7,9 @@
   "type": "module",
   "bin": { "axq-check-vars": "./src/check.ts" },
   "scripts": {
-    "run": "tsx src/check.ts"
+    "build":     "tsc --project tsconfig.json",
+    "typecheck": "tsc --project tsconfig.json --noEmit",
+    "run":       "tsx src/check.ts"
   },
   "dependencies": {
     "postcss": "^8.5.0",
