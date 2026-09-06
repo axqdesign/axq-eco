@@ -1,0 +1,167 @@
+{
+  "type": {
+    "overline": {
+      "$type": "number",
+      "$value": 10,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4975",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:faccfa16fa5895b949c3fb171b9a38401f913566/-1:-1",
+          "targetVariableName": "fontSize/10",
+          "targetVariableSetId": "VariableCollectionId:df4dae70919543e47d791d653437b7244abc2436/-1:-1",
+          "targetVariableSetName": "Primitive / Font Size"
+        }
+      }
+    },
+    "caption": {
+      "$type": "number",
+      "$value": 12,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4976",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:39e1c5625f3e74cae388e658649bfb9772cbcab3/-1:-1",
+          "targetVariableName": "fontSize/12",
+          "targetVariableSetId": "VariableCollectionId:df4dae70919543e47d791d653437b7244abc2436/-1:-1",
+          "targetVariableSetName": "Primitive / Font Size"
+        }
+      }
+    },
+    "body-sm": {
+      "$type": "number",
+      "$value": 14,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4977",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:850dce7244268deae9ccbf2b982c59a5e4ce5add/-1:-1",
+          "targetVariableName": "fontSize/14",
+          "targetVariableSetId": "VariableCollectionId:df4dae70919543e47d791d653437b7244abc2436/-1:-1",
+          "targetVariableSetName": "Primitive / Font Size"
+        }
+      }
+    },
+    "body": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4978",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:96045deb864779f97e8c18430ef4b6351a20a15f/-1:-1",
+          "targetVariableName": "fontSize/16",
+          "targetVariableSetId": "VariableCollectionId:df4dae70919543e47d791d653437b7244abc2436/-1:-1",
+          "targetVariableSetName": "Primitive / Font Size"
+        }
+      }
+    },
+    "h6": {
+      "$type": "number",
+      "$value": 20,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4979",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:9facbd31e35020c52fc7137325c91e113eddd5a3/-1:-1",
+          "targetVariableName": "fontSize/20",
+          "targetVariableSetId": "VariableCollectionId:df4dae70919543e47d791d653437b7244abc2436/-1:-1",
+          "targetVariableSetName": "Primitive / Font Size"
+        }
+      }
+    },
+    "h5": {
+      "$type": "number",
+      "$value": 24,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4980",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:6a9e6383331f6a1f358bd0c094e45aeec1c040ea/-1:-1",
+          "targetVariableName": "fontSize/24",
+          "targetVariableSetId": "VariableCollectionId:df4dae70919543e47d791d653437b7244abc2436/-1:-1",
+          "targetVariableSetName": "Primitive / Font Size"
+        }
+      }
+    },
+    "h4": {
+      "$type": "number",
+      "$value": 34,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4981",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:f31d07a8bf61a3cdc161847c6b2fb9b03b02eb13/-1:-1",
+          "targetVariableName": "fontSize/34",
+          "targetVariableSetId": "VariableCollectionId:df4dae70919543e47d791d653437b7244abc2436/-1:-1",
+          "targetVariableSetName": "Primitive / Font Size"
+        }
+      }
+    },
+    "h3": {
+      "$type": "number",
+      "$value": 48,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4982",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:1027972927f12b1ce4a675cca411db4f1f80ce99/-1:-1",
+          "targetVariableName": "fontSize/48",
+          "targetVariableSetId": "VariableCollectionId:df4dae70919543e47d791d653437b7244abc2436/-1:-1",
+          "targetVariableSetName": "Primitive / Font Size"
+        }
+      }
+    },
+    "h2": {
+      "$type": "number",
+      "$value": 60,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4983",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:6f8e7f46f82508f618882a4e6b406ea199f4f035/-1:-1",
+          "targetVariableName": "fontSize/60",
+          "targetVariableSetId": "VariableCollectionId:df4dae70919543e47d791d653437b7244abc2436/-1:-1",
+          "targetVariableSetName": "Primitive / Font Size"
+        }
+      }
+    },
+    "h1": {
+      "$type": "number",
+      "$value": 96,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4984",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:e0b7497ecb0dd4c9f2b89fbf5f168124960a59d0/-1:-1",
+          "targetVariableName": "fontSize/96",
+          "targetVariableSetId": "VariableCollectionId:df4dae70919543e47d791d653437b7244abc2436/-1:-1",
+          "targetVariableSetName": "Primitive / Font Size"
+        }
+      }
+    }
+  },
+  "$extensions": {
+    "axq.axqdesign.modeName": "Default"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "AXQ Ecosystem",
+  "codename": "axq-eco",
+  "version": "1.0.0",
+  "created": "2024",
+  "author": "AXQ Design",
+  "domain": "https://axqdesign.axq",
+  "copyright": "© 2024 AXQ Design. All rights reserved.",
+  "description": "Môi trường sáng tác chính thức — nơi tất cả sản phẩm, ứng dụng và thư viện của AXQ Design được xây dựng.",
+
+  "workspace": {
+    "root": "D:/iOS-UI-screens/axq-eco",
+    "tokenLibrary": "../Variables-axq",
+    "designAssets": "../png",
+    "icons": "../icons",
+    "adminIcons": "../admin-icons"
+  },
+
+  "layers": {
+    "primitive": "Giá trị thô — màu sắc, kích thước, khoảng cách nền tảng",
+    "semantic":  "Alias ngữ nghĩa — ý nghĩa thiết kế",
+    "component": "Token theo component — sử dụng trực tiếp trong code"
+  },
+
+  "categories": {
+    "apps": {
+      "description": "Ứng dụng hoàn chỉnh (web app, mobile app, desktop app)",
+      "path": "apps/",
+      "naming": "axq-{type}-{name}"
+    },
+    "packages": {
+      "description": "Thư viện, component, utility có thể tái sử dụng",
+      "path": "packages/",
+      "naming": "@axqdesign/{name}"
+    },
+    "products": {
+      "description": "Sản phẩm thương mại độc quyền của AXQ Design",
+      "path": "products/",
+      "naming": "axq-product-{name}"
+    },
+    "tools": {
+      "description": "Công cụ nội bộ, script, CLI, automation",
+      "path": "tools/",
+      "naming": "axq-tool-{name}"
+    },
+    "studio": {
+      "description": "Không gian sáng tác tự do — prototype, thí nghiệm, concept",
+      "path": "studio/",
+      "naming": "studio-{name}"
+    },
+    "docs": {
+      "description": "Tài liệu hệ thống, hướng dẫn, RFC, ADR",
+      "path": "docs/",
+      "naming": "{topic}.md"
+    },
+    "templates": {
+      "description": "Mẫu scaffold cho tác phẩm mới",
+      "path": "templates/",
+      "naming": "template-{type}"
+    }
+  },
+
+  "conventions": {
+    "language":    "TypeScript ưu tiên, JavaScript cho script đơn giản",
+    "style":       "CSS Variables từ @axqdesign/tokens",
+    "tokens":      "Luôn dùng token từ thư viện, không hardcode giá trị",
+    "naming":      "kebab-case cho file/folder, PascalCase cho component",
+    "versioning":  "Semantic Versioning (semver)",
+    "license":     "AXQDesign Proprietary — không public mà không có phép"
+  },
+
+  "brands": {
+    "primary": "#000000",
+    "teal":    "#49DBC8",
+    "green":   "#BEFF6C",
+    "orange":  "#FC7339",
+    "pink":    "#FD9FDD",
+    "purple":  "#AF96FB",
+    "yellow":  "#FFF172"
+  }
+}

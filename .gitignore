@@ -1,0 +1,70 @@
+﻿# AXQ Ecosystem — .gitignore
+# © 2024 AXQ Design · https://axqdesign.axq
+
+# ─── Dependencies ────────────────────────────────────────────────────────────
+node_modules/
+.pnpm-store/
+.yarn/
+.npm/
+.env
+# ─── Build outputs ───────────────────────────────────────────────────────────
+dist/
+.dist/
+tmp-assets/
+out/
+build/
+
+# ─── Generated source (icons — rebuilt by build:icons) ───────────────────────
+packages/@axqdesign/icons-react/src/icons/
+packages/@axqdesign/icons-vue/src/icons/
+packages/@axqdesign/icons-svelte/src/icons/
+packages/@axqdesign/icons-svelte-runes/src/icons/
+packages/@axqdesign/icons-preact/src/icons/
+packages/@axqdesign/icons-solidjs/src/icons/
+packages/@axqdesign/icons-astro/src/icons/
+packages/@axqdesign/icons-angular/src/icons/
+packages/@axqdesign/icons-sprite/src/icons/
+packages/@axqdesign/icons-webfont/src/icons/
+!packages/@axqdesign/icons-*/src/icons/.gitkeep
+
+# Generated JSON (rebuilt by icons build)
+packages/@axqdesign/icons/icons.json
+packages/@axqdesign/icons/axq-nodes-*.json
+packages/@axqdesign/icons/categories/*/
+!packages/@axqdesign/icons/categories/.gitkeep
+
+# ─── Astro / Vite ────────────────────────────────────────────────────────────
+.astro/
+apps/*/public/dist/
+apps/*/public/preview/
+apps/*/public/static/
+apps/*/public/favicon.ico
+apps/*/public/favicon-dev.ico
+
+# ─── Logs ────────────────────────────────────────────────────────────────────
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# ─── OS / Editor ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/settings.json
+.idea/
+
+# ─── Env / Secrets ───────────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ─── Turbo cache ─────────────────────────────────────────────────────────────
+.turbo/
+
+# ─── Test / Coverage ─────────────────────────────────────────────────────────
+coverage/
+.nyc_output/
+
+# ─── Releases / ZIP artifacts ────────────────────────────────────────────────
+releases/
+*.zip

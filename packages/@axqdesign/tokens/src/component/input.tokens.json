@@ -1,0 +1,362 @@
+{
+  "input": {
+    "bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5008",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:8b40427ab16fdae4bd0b6e0e47a8fcf208f6ac4e/-1:-1",
+          "targetVariableName": "surface/default",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "text": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.062745101749897,
+          0.0784313753247261,
+          0.14901961386203766
+        ],
+        "alpha": 1,
+        "hex": "#101426"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5009",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:19faf8514899064c1d8abda240eb4df2e8b2b58c/-1:-1",
+          "targetVariableName": "text/primary",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "placeholder": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.5607843399047852,
+          0.6078431606292725,
+          0.7019608020782471
+        ],
+        "alpha": 1,
+        "hex": "#8F9BB3"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5010",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:40ac59a7f08578d575de8bb4820492a1b0905e15/-1:-1",
+          "targetVariableName": "text/tertiary",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "border": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.8941176533699036,
+          0.9137254953384399,
+          0.9490196108818054
+        ],
+        "alpha": 1,
+        "hex": "#E4E9F2"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5011",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:977b887972a942207b075d17c6d08578226700c5/-1:-1",
+          "targetVariableName": "border/default",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "border-focus": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0.5843137502670288,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#0095FF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5012",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:282be3c1b8e636ec0f6428112f38f6c7deadda80/-1:-1",
+          "targetVariableName": "border/focus",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "border-error": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          0.239215686917305,
+          0.4431372582912445
+        ],
+        "alpha": 1,
+        "hex": "#FF3D71"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5013",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:e42b5e8c1d945dc239d9aeea90793ffe26300fed/-1:-1",
+          "targetVariableName": "status/error-default",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "label": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.18039216101169586,
+          0.22745098173618317,
+          0.3490196168422699
+        ],
+        "alpha": 1,
+        "hex": "#2E3A59"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5014",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:a38e2f2c3fbe3981d9bb767294c4384b70cf4f9e/-1:-1",
+          "targetVariableName": "text/secondary",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "helper": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.5607843399047852,
+          0.6078431606292725,
+          0.7019608020782471
+        ],
+        "alpha": 1,
+        "hex": "#8F9BB3"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5015",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:40ac59a7f08578d575de8bb4820492a1b0905e15/-1:-1",
+          "targetVariableName": "text/tertiary",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "error-text": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.7215686440467834,
+          0.11372549086809158,
+          0.35686275362968445
+        ],
+        "alpha": 1,
+        "hex": "#B81D5B"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5016",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:102220f234db953c00f15eb4a471f954b1d6d93c/-1:-1",
+          "targetVariableName": "status/error-text",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "disabled-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.8941176533699036,
+          0.9137254953384399,
+          0.9490196108818054
+        ],
+        "alpha": 1,
+        "hex": "#E4E9F2"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5017",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:f236d92ff526bff50b9220dcf3441a207d9e8e3e/-1:-1",
+          "targetVariableName": "bg/disabled",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "disabled-text": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.772549033164978,
+          0.8078431487083435,
+          0.8784313797950745
+        ],
+        "alpha": 1,
+        "hex": "#C5CEE0"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5018",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:4f31fa97ac75e12cf26089a64f4f57b464b409a1/-1:-1",
+          "targetVariableName": "text/disabled",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "padding-x": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5019",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:496dc0542e3d2412c3a54ba6f3d5a28e70abf539/-1:-1",
+          "targetVariableName": "inset/md",
+          "targetVariableSetId": "VariableCollectionId:1ec608041269636195dc26fa5486efcfffbe7853/-1:-1",
+          "targetVariableSetName": "Semantic / Spacing"
+        }
+      }
+    },
+    "padding-y": {
+      "$type": "number",
+      "$value": 8,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5020",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:1762acfb592aed61547fb82b32348321db96be26/-1:-1",
+          "targetVariableName": "inset/sm",
+          "targetVariableSetId": "VariableCollectionId:1ec608041269636195dc26fa5486efcfffbe7853/-1:-1",
+          "targetVariableSetName": "Semantic / Spacing"
+        }
+      }
+    },
+    "radius": {
+      "$type": "number",
+      "$value": 12,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5021",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:da52cc0429267d669ccfe0f9d911a1b629ccc70f/-1:-1",
+          "targetVariableName": "radius/input",
+          "targetVariableSetId": "VariableCollectionId:9c0980d2b1fa47d0dc4c430373f66f7c76e357fd/-1:-1",
+          "targetVariableSetName": "Semantic / Radius"
+        }
+      }
+    },
+    "font-size": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5022",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:d64f36d713fd9aa54ddc2629e712f891775f26d8/-1:-1",
+          "targetVariableName": "type/body",
+          "targetVariableSetId": "VariableCollectionId:04d4d932f7eb1e3d578c6868b4045223cf1d376e/-1:-1",
+          "targetVariableSetName": "Semantic / Font Size"
+        }
+      }
+    },
+    "label-size": {
+      "$type": "number",
+      "$value": 12,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5023",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:c7a158bcf0b4964dc7bcd8e965685c68926e9dd3/-1:-1",
+          "targetVariableName": "type/caption",
+          "targetVariableSetId": "VariableCollectionId:04d4d932f7eb1e3d578c6868b4045223cf1d376e/-1:-1",
+          "targetVariableSetName": "Semantic / Font Size"
+        }
+      }
+    }
+  },
+  "$extensions": {
+    "axq.axqdesign.modeName": "Default"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@axqdesign/axq-zip",
+  "version": "0.0.0",
+  "description": "AXQ Release Packager — Bundle dist/ into versioned ZIP",
+  "author": { "name": "AXQ Design", "url": "https://axqdesign.axq" },
+  "license": "SEE LICENSE IN LICENSE",
+  "type": "module",
+  "bin": { "axq-zip": "./src/zip.ts" },
+  "scripts": {
+    "run": "tsx src/zip.ts"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.9.0"
+  },
+  "axqdesign": { "type": "tool", "category": "tools", "version": "0.0.0" }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "studio-{{name}}",
+  "version": "0.1.0",
+  "description": "{{description}}",
+  "private": true,
+  "author": {
+    "name": "AXQ Design",
+    "url": "https://axqdesign.axq"
+  },
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@axqdesign/tokens": "^1.0.0"
+  },
+  "axqdesign": {
+    "type": "studio",
+    "created": "{{date}}",
+    "category": "studio",
+    "status": "experiment"
+  }
+}

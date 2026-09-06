@@ -1,0 +1,53 @@
+﻿{
+  "name": "@axqdesign/icons-react",
+  "version": "1.0.0",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": { "name": "AXQ Design", "email": "studio@axqdesign.axq", "url": "https://axqdesign.axq" },
+  "description": "A set of free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+  "homepage": "https://axqdesign.axq/icons",
+  "bugs": {
+    "url": "https://axqdesign.axq/git/icons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://axqdesign.axq/git/icons.git",
+    "directory": "packages/icons-react"
+  },
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://axqdesign.axq/npm"
+  },
+  "main": "./dist/cjs/axqdesign-icons-react.cjs",
+  "module": "./dist/esm/axqdesign-icons-react.mjs",
+  "types": "./dist/axqdesign-icons-react.d.ts",
+  "amdName": "AXQIconsReact",
+  "sideEffects": false,
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "pnpm run clean && pnpm run copy:license && pnpm run build:icons && pnpm typecheck && pnpm run build:bundles",
+    "build:icons": "node build.mjs",
+    "build:bundles": "rollup -c ./rollup.config.mjs",
+    "copy:license": "cp ../../LICENSE ./LICENSE",
+    "clean": "find dist -mindepth 1 -delete 2>/dev/null; rm -rf dist && find . ! -name '.gitkeep' -path '*/src/icons/*' -exec rm -rf {} +",
+    "test": "vitest run --typecheck",
+    "typecheck": "tsc",
+    "imports-check": "attw $(npm pack)"
+  },
+  "dependencies": {
+    "@axqdesign/icons": "workspace:"
+  },
+  "devDependencies": {
+    "@testing-library/react": "catalog:",
+    "@types/react": "catalog:",
+    "@vitejs/plugin-react": "catalog:",
+    "react": "catalog:",
+    "react-dom": "catalog:",
+    "react-test-renderer": "catalog:"
+  },
+  "peerDependencies": {
+    "react": ">= 16"
+  },
+  "optionalDependencies": {}
+}

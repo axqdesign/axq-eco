@@ -1,0 +1,25 @@
+{
+  "name": "@axqdesign/axq-build-icons",
+  "version": "0.0.0",
+  "description": "AXQ Icon Component Builder — SVG → JS/TS framework components",
+  "author": { "name": "AXQ Design", "url": "https://axqdesign.axq" },
+  "license": "SEE LICENSE IN LICENSE",
+  "type": "module",
+  "bin": { "axq-build-icons": "./src/build.ts" },
+  "scripts": {
+    "run": "tsx src/build.ts",
+    "run:list": "tsx src/build.ts --list-only"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "glob": "10.3.16",
+    "gray-matter": "^4.0.3",
+    "svgson": "^5.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.9.0"
+  },
+  "axqdesign": { "type": "tool", "category": "tools", "version": "0.0.0" }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "@axqdesign/tokens",
+  "version": "1.0.0",
+  "description": "AXQ Design System — Official Design Token Library. Proprietary & Confidential.",
+  "author": {
+    "name": "AXQ Design",
+    "url": "https://axqdesign.axq"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "private": false,
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://axqdesign.axq/npm"
+  },
+  "main": "dist/tokens.js",
+  "module": "dist/tokens.esm.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/tokens.esm.js",
+      "require": "./dist/tokens.js",
+      "types": "./dist/index.d.ts"
+    },
+    "./css": "./dist/tokens.css",
+    "./css/primitive": "./dist/primitive.css",
+    "./css/semantic": "./dist/semantic.css",
+    "./css/component": "./dist/component.css",
+    "./json": "./dist/tokens.json",
+    "./src/primitive/*": "./src/primitive/*",
+    "./src/semantic/*": "./src/semantic/*",
+    "./src/component/*": "./src/component/*"
+  },
+  "files": [
+    "dist/",
+    "src/",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "keywords": [
+    "axqdesign",
+    "axq",
+    "design-system",
+    "design-tokens",
+    "tokens",
+    "css-variables",
+    "color",
+    "typography",
+    "spacing",
+    "radius"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://axqdesign.axq/tokens.git"
+  },
+  "bugs": {
+    "url": "https://axqdesign.axq/tokens/issues"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "lint": "node scripts/validate.js",
+    "prepublishOnly": "npm run build"
+  },
+  "axqdesign": {
+    "type": "package",
+    "category": "packages",
+    "tokenVersion": "1.0.0",
+    "designTool": "Figma",
+    "layers": ["primitive", "semantic", "component"],
+    "modes": ["light"],
+    "copyright": "© 2024 AXQ Design. All rights reserved.",
+    "proprietary": true,
+    "domain": "https://axqdesign.axq"
+  }
+}

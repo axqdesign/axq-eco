@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AXQ Studio · {{name}}</title>
+  <style>
+    /* ─── AXQ Token primitives inlined for studio standalone ─── */
+    :root {
+      --axq-color-white: #FFFFFF; --axq-color-black: #000000;
+      --axq-color-greyscale-900: #101426; --axq-color-greyscale-100: #EDF1F7;
+      --axq-color-brand-teal: #49DBC8; --axq-color-brand-green: #BEFF6C;
+      --axq-bg-primary: var(--axq-color-white);
+      --axq-text-primary: var(--axq-color-greyscale-900);
+      --axq-type-body: 16px; --axq-type-h1: 96px; --axq-type-h3: 48px;
+      --axq-accent-teal: var(--axq-color-brand-teal);
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--axq-bg-primary);
+      color: var(--axq-text-primary);
+      font-family: system-ui, sans-serif;
+      font-size: var(--axq-type-body);
+      min-height: 100vh;
+    }
+    #studio {
+      display: flex; align-items: center; justify-content: center;
+      min-height: 100vh; flex-direction: column; gap: 16px;
+    }
+    .axq-badge {
+      font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase;
+      color: var(--axq-accent-teal); font-weight: 600;
+    }
+    h1 { font-size: clamp(2rem, 8vw, var(--axq-type-h1)); font-weight: 900; }
+  </style>
+</head>
+<body>
+  <div id="studio">
+    <span class="axq-badge">AXQ Studio</span>
+    <h1>{{name}}</h1>
+    <p style="color: #8F9BB3;">{{description}}</p>
+  </div>
+  <script type="module" src="./sketch.js"></script>
+</body>
+</html>

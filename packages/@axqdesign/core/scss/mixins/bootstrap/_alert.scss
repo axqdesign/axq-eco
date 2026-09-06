@@ -1,0 +1,12 @@
+@use '../../settings' as *;
+@use '../../variables' as *;
+@use '../functions' as *;
+@use 'breakpoints' as *;
+// Alert variants
+//
+// AXQ Design overrides Bootstrap's alert-variant with an empty mixin
+// to prevent Bootstrap from generating alert color styles (AXQ Design handles this itself).
+
+@mixin alert-variant($background: null, $border: null, $color: null) {
+  // Intentionally empty — AXQ Design manages alert variants
+}

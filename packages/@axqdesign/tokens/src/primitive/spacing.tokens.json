@@ -1,0 +1,187 @@
+{
+  "space": {
+    "0": {
+      "$type": "number",
+      "$value": 0,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4851",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "2": {
+      "$type": "number",
+      "$value": 2,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4852",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "4": {
+      "$type": "number",
+      "$value": 4,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4853",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "6": {
+      "$type": "number",
+      "$value": 6,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4854",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "8": {
+      "$type": "number",
+      "$value": 8,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4855",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "10": {
+      "$type": "number",
+      "$value": 10,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4856",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "12": {
+      "$type": "number",
+      "$value": 12,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4857",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "16": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4858",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "20": {
+      "$type": "number",
+      "$value": 20,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4859",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "24": {
+      "$type": "number",
+      "$value": 24,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4860",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "32": {
+      "$type": "number",
+      "$value": 32,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4861",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "40": {
+      "$type": "number",
+      "$value": 40,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4862",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "48": {
+      "$type": "number",
+      "$value": 48,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4863",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "56": {
+      "$type": "number",
+      "$value": 56,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4864",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "64": {
+      "$type": "number",
+      "$value": 64,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4865",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "80": {
+      "$type": "number",
+      "$value": 80,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4866",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "96": {
+      "$type": "number",
+      "$value": 96,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4867",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    },
+    "128": {
+      "$type": "number",
+      "$value": 128,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4868",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ]
+      }
+    }
+  },
+  "$extensions": {
+    "axq.axqdesign.modeName": "Value"
+  }
+}

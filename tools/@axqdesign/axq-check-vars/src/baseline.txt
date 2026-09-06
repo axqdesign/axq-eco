@@ -1,0 +1,9 @@
+# axq-check-vars — Baseline Exceptions
+# CSS custom properties known to be referenced without a matching definition.
+#
+# One --axq-* name per line.
+# ─ Remove a line when you fix the property (define it or add a fallback).
+# ─ Keep a line when the property is intentionally deferred (e.g. injected by JS).
+#
+# Regenerate automatically with:
+#   tsx tool/axq-check-vars/src/check.ts core/scss --update-baseline

@@ -1,0 +1,25 @@
+{
+  "name": "@axqdesign/{{name}}",
+  "version": "0.1.0",
+  "description": "{{description}}",
+  "private": true,
+  "author": {
+    "name": "AXQ Design",
+    "url": "https://axqdesign.axq"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": ["axqdesign", "{{name}}"],
+  "scripts": {
+    "dev":   "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@axqdesign/tokens": "^1.0.0"
+  },
+  "axqdesign": {
+    "type": "package",
+    "created": "{{date}}",
+    "category": "packages"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What makes AXQ Design different from other UI frameworks?",
+    "answer": "AXQ Design offers a modern, responsive design with a clean aesthetic, built on Bootstrap for ease of use and flexibility."
+  },
+  {
+    "question": "How can I customize AXQ Design components to fit my design needs?",
+    "answer": "You can customize AXQ Design components using CSS variables, SCSS, and utility classes to match your design preferences."
+  },
+  {
+    "question": "Is AXQ Design optimized for performance and fast loading times?",
+    "answer": "Yes, AXQ Design is lightweight, optimized for modern browsers, and follows best practices for fast loading and efficiency."
+  },
+  {
+    "question": "How accessible are AXQ Design components?",
+    "answer": "AXQ Design components follow WAI-ARIA standards and support keyboard navigation, screen readers, and accessibility best practices."
+  },
+  {
+    "question": "Do AXQ Design components follow WAI-ARIA standards?",
+    "answer": "Yes, all AXQ Design components include proper ARIA attributes to ensure accessibility compliance."
+  },
+  {
+    "question": "Does AXQ Design support keyboard navigation and screen readers?",
+    "answer": "Yes, AXQ Design components are designed to work seamlessly with keyboard navigation and popular screen readers like NVDA, VoiceOver, and JAWS."
+  }
+]

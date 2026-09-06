@@ -1,0 +1,59 @@
+{
+  "name": "@axqdesign/icons",
+  "version": "1.0.0",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": {
+    "name": "AXQ Design",
+    "email": "studio@axqdesign.axq",
+    "url": "https://axqdesign.axq"
+  },
+  "description": "A set of high-quality SVG icons for AXQ Design System.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://axqdesign.axq/git/icons.git"
+  },
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://axqdesign.axq/npm"
+  },
+  "amdName": "AXQIcons",
+  "exports": {
+    "./*": [
+      "./icons/*"
+    ]
+  },
+  "sideEffects": false,
+  "files": [
+    "icons.json",
+    "axq-nodes-filled.json",
+    "axq-nodes-outline.json",
+    "icons/*",
+    "categories/*",
+    "docs/*"
+  ],
+  "homepage": "https://axqdesign.axq/icons",
+  "bugs": {
+    "url": "https://axqdesign.axq/issues"
+  },
+  "scripts": {
+    "build": "pnpm run clean && pnpm run copy && pnpm run build:icons && pnpm run build:docs",
+    "build:icons": "node build.mjs",
+    "build:docs": "cp -r ../../docs/* ./docs/",
+    "copy": "pnpm run copy:license",
+    "copy:license": "cp ../../LICENSE ./LICENSE",
+    "clean": "find dist -mindepth 1 -delete 2>/dev/null; rm -rf dist && find . ! -name '.gitkeep' -path '*/categories/*' -exec rm -rf {} + && find dist -mindepth 1 -delete 2>/dev/null; rm -rf dist && find . ! -name '.gitkeep' -path '*/icons/*' -exec rm -rf {} +"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "axqdesign",
+    "design-system",
+    "react",
+    "front-end",
+    "web"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {}
+}

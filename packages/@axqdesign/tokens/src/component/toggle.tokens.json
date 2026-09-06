@@ -1,0 +1,107 @@
+{
+  "toggle": {
+    "active-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0.8392156958580017,
+          0.5607843399047852
+        ],
+        "alpha": 1,
+        "hex": "#00D68F"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5061",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:766991947cdb123f1ac26bd394d1c76107986b4c/-1:-1",
+          "targetVariableName": "status/success-default",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "inactive-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.8941176533699036,
+          0.9137254953384399,
+          0.9490196108818054
+        ],
+        "alpha": 1,
+        "hex": "#E4E9F2"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5062",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:94684f12ce6c043de104eb8c43260b5bf0f22a97/-1:-1",
+          "targetVariableName": "bg/tertiary",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "thumb": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5063",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:1cbd9559013c505aeb417709bb46d5c3475d731b/-1:-1",
+          "targetVariableName": "bg/primary",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "disabled-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.8941176533699036,
+          0.9137254953384399,
+          0.9490196108818054
+        ],
+        "alpha": 1,
+        "hex": "#E4E9F2"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5064",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:f236d92ff526bff50b9220dcf3441a207d9e8e3e/-1:-1",
+          "targetVariableName": "bg/disabled",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    }
+  },
+  "$extensions": {
+    "axq.axqdesign.modeName": "Default"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "@axqdesign/axq-import-icons",
+  "version": "0.0.0",
+  "description": "AXQ Icon Importer — Import SVG from source + sync data JSON",
+  "author": { "name": "AXQ Design", "url": "https://axqdesign.axq" },
+  "license": "SEE LICENSE IN LICENSE",
+  "type": "module",
+  "bin": { "axq-import-icons": "./src/import.ts" },
+  "scripts": {
+    "run": "tsx src/import.ts",
+    "run:svg": "tsx src/import-svg.ts",
+    "run:data": "tsx src/import-data.ts"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "glob": "10.3.16",
+    "gray-matter": "^4.0.3",
+    "svgo": "^4.0.0",
+    "svgpath": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.9.0"
+  },
+  "axqdesign": { "type": "tool", "category": "tools", "version": "0.0.0" }
+}

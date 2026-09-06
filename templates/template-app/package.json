@@ -1,0 +1,26 @@
+{
+  "name": "axq-app-{{name}}",
+  "version": "0.1.0",
+  "description": "{{description}}",
+  "private": true,
+  "author": {
+    "name": "AXQ Design",
+    "url": "https://axqdesign.axq"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "dev":     "vite",
+    "build":   "vite build",
+    "preview": "vite preview",
+    "lint":    "eslint src/"
+  },
+  "dependencies": {
+    "@axqdesign/tokens": "^1.0.0"
+  },
+  "axqdesign": {
+    "type": "app",
+    "platform": "{{platform}}",
+    "created": "{{date}}",
+    "category": "apps"
+  }
+}

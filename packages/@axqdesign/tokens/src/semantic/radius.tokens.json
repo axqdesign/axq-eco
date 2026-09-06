@@ -1,0 +1,135 @@
+{
+  "radius": {
+    "none": {
+      "$type": "number",
+      "$value": 0,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4966",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:83d8326302f36ff37d11b7d67a7f123fb63a8f07/-1:-1",
+          "targetVariableName": "radius/none",
+          "targetVariableSetId": "VariableCollectionId:d8b9f5be2c2a4c32b6dcef87264bf9fd57e34d4b/-1:-1",
+          "targetVariableSetName": "Primitive / Radius"
+        }
+      }
+    },
+    "button": {
+      "$type": "number",
+      "$value": 24,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4967",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:082aa32c247539d9a7270891e12a4c9b2cedd0cd/-1:-1",
+          "targetVariableName": "radius/2xl",
+          "targetVariableSetId": "VariableCollectionId:d8b9f5be2c2a4c32b6dcef87264bf9fd57e34d4b/-1:-1",
+          "targetVariableSetName": "Primitive / Radius"
+        }
+      }
+    },
+    "input": {
+      "$type": "number",
+      "$value": 12,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4968",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:3d0c0f4a54a01d0e1b06c933230037ddb2608f6b/-1:-1",
+          "targetVariableName": "radius/lg",
+          "targetVariableSetId": "VariableCollectionId:d8b9f5be2c2a4c32b6dcef87264bf9fd57e34d4b/-1:-1",
+          "targetVariableSetName": "Primitive / Radius"
+        }
+      }
+    },
+    "card": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4969",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:49b0738c22fb4dfd8b434d1ec92673227cd86378/-1:-1",
+          "targetVariableName": "radius/xl",
+          "targetVariableSetId": "VariableCollectionId:d8b9f5be2c2a4c32b6dcef87264bf9fd57e34d4b/-1:-1",
+          "targetVariableSetName": "Primitive / Radius"
+        }
+      }
+    },
+    "modal": {
+      "$type": "number",
+      "$value": 24,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4970",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:082aa32c247539d9a7270891e12a4c9b2cedd0cd/-1:-1",
+          "targetVariableName": "radius/2xl",
+          "targetVariableSetId": "VariableCollectionId:d8b9f5be2c2a4c32b6dcef87264bf9fd57e34d4b/-1:-1",
+          "targetVariableSetName": "Primitive / Radius"
+        }
+      }
+    },
+    "chip": {
+      "$type": "number",
+      "$value": 9999,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4971",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:051725dab52f8cd60fad774725a1812c707eebc7/-1:-1",
+          "targetVariableName": "radius/full",
+          "targetVariableSetId": "VariableCollectionId:d8b9f5be2c2a4c32b6dcef87264bf9fd57e34d4b/-1:-1",
+          "targetVariableSetName": "Primitive / Radius"
+        }
+      }
+    },
+    "avatar": {
+      "$type": "number",
+      "$value": 9999,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4972",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:051725dab52f8cd60fad774725a1812c707eebc7/-1:-1",
+          "targetVariableName": "radius/full",
+          "targetVariableSetId": "VariableCollectionId:d8b9f5be2c2a4c32b6dcef87264bf9fd57e34d4b/-1:-1",
+          "targetVariableSetName": "Primitive / Radius"
+        }
+      }
+    },
+    "badge": {
+      "$type": "number",
+      "$value": 4,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4973",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:795cb2e27f7f116940341d9664650ab23bb544cc/-1:-1",
+          "targetVariableName": "radius/sm",
+          "targetVariableSetId": "VariableCollectionId:d8b9f5be2c2a4c32b6dcef87264bf9fd57e34d4b/-1:-1",
+          "targetVariableSetName": "Primitive / Radius"
+        }
+      }
+    }
+  },
+  "$extensions": {
+    "axq.axqdesign.modeName": "Default"
+  }
+}

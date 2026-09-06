@@ -1,0 +1,487 @@
+{
+  "button": {
+    "primary-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0,
+          0
+        ],
+        "alpha": 1,
+        "hex": "#000000"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4986",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:3dd5fce33c0c6b133572c9d38384cf44ba0a72b1/-1:-1",
+          "targetVariableName": "bg/brand",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "primary-text": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4987",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:9951598b2558da4b07a342e9e5bfdbaa38444285/-1:-1",
+          "targetVariableName": "text/inverse",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "primary-border": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0,
+          0
+        ],
+        "alpha": 1,
+        "hex": "#000000"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4988",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:3dd5fce33c0c6b133572c9d38384cf44ba0a72b1/-1:-1",
+          "targetVariableName": "bg/brand",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "info-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0.5843137502670288,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#0095FF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4989",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:906692fc4e6882cddf23a9c771ec5fae2599c56a/-1:-1",
+          "targetVariableName": "status/info-default",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "info-text": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4990",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:df727584fe8dba27ebb4a360a33c4de8b733175b/-1:-1",
+          "targetVariableName": "text/on-color",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "success-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0.8392156958580017,
+          0.5607843399047852
+        ],
+        "alpha": 1,
+        "hex": "#00D68F"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4991",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:766991947cdb123f1ac26bd394d1c76107986b4c/-1:-1",
+          "targetVariableName": "status/success-default",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "success-text": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4992",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:df727584fe8dba27ebb4a360a33c4de8b733175b/-1:-1",
+          "targetVariableName": "text/on-color",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "warning-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          0.6666666865348816,
+          0
+        ],
+        "alpha": 1,
+        "hex": "#FFAA00"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4993",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:3a52b995814d30a890222d7454965b6f20062076/-1:-1",
+          "targetVariableName": "status/warning-default",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "warning-text": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4994",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:df727584fe8dba27ebb4a360a33c4de8b733175b/-1:-1",
+          "targetVariableName": "text/on-color",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "danger-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          0.239215686917305,
+          0.4431372582912445
+        ],
+        "alpha": 1,
+        "hex": "#FF3D71"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4995",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:e42b5e8c1d945dc239d9aeea90793ffe26300fed/-1:-1",
+          "targetVariableName": "status/error-default",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "danger-text": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4996",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:df727584fe8dba27ebb4a360a33c4de8b733175b/-1:-1",
+          "targetVariableName": "text/on-color",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "disabled-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.8941176533699036,
+          0.9137254953384399,
+          0.9490196108818054
+        ],
+        "alpha": 1,
+        "hex": "#E4E9F2"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4997",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:f236d92ff526bff50b9220dcf3441a207d9e8e3e/-1:-1",
+          "targetVariableName": "bg/disabled",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "disabled-text": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.772549033164978,
+          0.8078431487083435,
+          0.8784313797950745
+        ],
+        "alpha": 1,
+        "hex": "#C5CEE0"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4998",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:4f31fa97ac75e12cf26089a64f4f57b464b409a1/-1:-1",
+          "targetVariableName": "text/disabled",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "ghost-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4999",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:1cbd9559013c505aeb417709bb46d5c3475d731b/-1:-1",
+          "targetVariableName": "bg/primary",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "ghost-text": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.062745101749897,
+          0.0784313753247261,
+          0.14901961386203766
+        ],
+        "alpha": 1,
+        "hex": "#101426"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5000",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:19faf8514899064c1d8abda240eb4df2e8b2b58c/-1:-1",
+          "targetVariableName": "text/primary",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "ghost-border": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.8941176533699036,
+          0.9137254953384399,
+          0.9490196108818054
+        ],
+        "alpha": 1,
+        "hex": "#E4E9F2"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5001",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:977b887972a942207b075d17c6d08578226700c5/-1:-1",
+          "targetVariableName": "border/default",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "padding-x": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5002",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:496dc0542e3d2412c3a54ba6f3d5a28e70abf539/-1:-1",
+          "targetVariableName": "inset/md",
+          "targetVariableSetId": "VariableCollectionId:1ec608041269636195dc26fa5486efcfffbe7853/-1:-1",
+          "targetVariableSetName": "Semantic / Spacing"
+        }
+      }
+    },
+    "padding-y": {
+      "$type": "number",
+      "$value": 8,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5003",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:1762acfb592aed61547fb82b32348321db96be26/-1:-1",
+          "targetVariableName": "inset/sm",
+          "targetVariableSetId": "VariableCollectionId:1ec608041269636195dc26fa5486efcfffbe7853/-1:-1",
+          "targetVariableSetName": "Semantic / Spacing"
+        }
+      }
+    },
+    "gap": {
+      "$type": "number",
+      "$value": 8,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5004",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:dba96913723b6a22eb45d3a0fe9ec2c7f26d62fa/-1:-1",
+          "targetVariableName": "gap/sm",
+          "targetVariableSetId": "VariableCollectionId:1ec608041269636195dc26fa5486efcfffbe7853/-1:-1",
+          "targetVariableSetName": "Semantic / Spacing"
+        }
+      }
+    },
+    "radius": {
+      "$type": "number",
+      "$value": 24,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5005",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:9c2f4ff8074ca14b7cd45f3aedc0f9d527e45890/-1:-1",
+          "targetVariableName": "radius/button",
+          "targetVariableSetId": "VariableCollectionId:9c0980d2b1fa47d0dc4c430373f66f7c76e357fd/-1:-1",
+          "targetVariableSetName": "Semantic / Radius"
+        }
+      }
+    },
+    "font-size": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5006",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:d64f36d713fd9aa54ddc2629e712f891775f26d8/-1:-1",
+          "targetVariableName": "type/body",
+          "targetVariableSetId": "VariableCollectionId:04d4d932f7eb1e3d578c6868b4045223cf1d376e/-1:-1",
+          "targetVariableSetName": "Semantic / Font Size"
+        }
+      }
+    }
+  },
+  "$extensions": {
+    "axq.axqdesign.modeName": "Default"
+  }
+}

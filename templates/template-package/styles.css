@@ -1,0 +1,7 @@
+/**
+ * @axqdesign/{{name}} — Main styles
+ * Imports AXQ token layer — do not override with raw values
+ */
+@import '@axqdesign/tokens/css';
+
+/* Component styles go here — always use var(--axq-*) */

@@ -1,0 +1,167 @@
+AXQDESIGN PROPRIETARY SOFTWARE LICENSE
+Version 1.0, 2024
+
+Copyright (c) 2024 AXQ Design
+All rights reserved.
+https://axqdesign.axq
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROPRIETARY & CONFIDENTIAL — READ CAREFULLY BEFORE USING THIS SOFTWARE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This software, including all source code, design tokens, data files, type
+definitions, documentation, and any associated assets (collectively, the
+"Software"), is the exclusive intellectual property of AXQ Design
+("the Author").
+
+By accessing, downloading, installing, or using this Software in any form,
+you ("Licensee") agree to be bound by the terms of this License.
+
+────────────────────────────────────────────────────────────────────────────────
+1. GRANT OF LICENSE
+────────────────────────────────────────────────────────────────────────────────
+
+Subject to the terms and conditions of this License, the Author grants
+Licensee a limited, non-exclusive, non-transferable, non-sublicensable,
+revocable license to:
+
+  (a) Use the Software solely within Licensee's internal projects that have
+      been explicitly authorized in writing by the Author.
+
+  (b) Reference the Software's public API and token names in documentation
+      for such authorized projects.
+
+This license does not grant any rights beyond what is expressly stated above.
+
+────────────────────────────────────────────────────────────────────────────────
+2. RESTRICTIONS
+────────────────────────────────────────────────────────────────────────────────
+
+Licensee shall NOT, and shall not permit any third party to:
+
+  (a) Copy, reproduce, or duplicate the Software or any portion thereof,
+      except as expressly permitted under Section 1.
+
+  (b) Modify, adapt, translate, or create derivative works based on the
+      Software without prior written consent from the Author.
+
+  (c) Distribute, publish, transmit, sell, sublicense, transfer, or
+      otherwise make available the Software or any portion thereof to any
+      third party.
+
+  (d) Reverse engineer, disassemble, decompile, or attempt to derive the
+      source code, design decisions, or underlying data from any compiled
+      or obfuscated portion of the Software.
+
+  (e) Remove, alter, or obscure any proprietary notices, labels, or
+      markings (including this License) from the Software.
+
+  (f) Use the Software for any commercial purpose, product, or service
+      that has not been explicitly authorized in writing by the Author.
+
+  (g) Use the AXQ name, logo, brand identity, or any associated trademarks
+      without the prior written permission of the Author.
+
+  (h) Use the Software in any manner that competes with AXQ Design or any
+      product or service offered by the Author.
+
+────────────────────────────────────────────────────────────────────────────────
+3. OWNERSHIP
+────────────────────────────────────────────────────────────────────────────────
+
+The Software is licensed, not sold. The Author retains all right, title, and
+interest in and to the Software, including all intellectual property rights
+therein. This License does not transfer any ownership rights to Licensee.
+
+All token names, color systems, design decisions, naming conventions, and
+architectural patterns embodied in the Software are proprietary assets of
+AXQ Design and shall not be imitated, recreated, or reverse-engineered.
+
+────────────────────────────────────────────────────────────────────────────────
+4. CONFIDENTIALITY
+────────────────────────────────────────────────────────────────────────────────
+
+The Software and its contents are confidential information of the Author.
+Licensee shall:
+
+  (a) Maintain the confidentiality of the Software using at least the same
+      degree of care used to protect its own confidential information, but in
+      no event less than reasonable care.
+
+  (b) Not disclose the Software or any portion thereof to any third party
+      without the prior written consent of the Author.
+
+  (c) Limit access to the Software to those employees and contractors of
+      Licensee who have a need to access the Software for authorized purposes
+      and who are bound by confidentiality obligations no less restrictive
+      than those set forth herein.
+
+────────────────────────────────────────────────────────────────────────────────
+5. TERMINATION
+────────────────────────────────────────────────────────────────────────────────
+
+This License is effective until terminated. The Author may terminate this
+License immediately and without notice if Licensee breaches any term of this
+License. Upon termination:
+
+  (a) All rights granted to Licensee hereunder shall immediately cease.
+
+  (b) Licensee shall immediately cease all use of the Software and destroy
+      all copies in its possession or control.
+
+  (c) Sections 3 (Ownership), 4 (Confidentiality), 6 (Disclaimer of
+      Warranties), 7 (Limitation of Liability), and 8 (Governing Law) shall
+      survive termination.
+
+────────────────────────────────────────────────────────────────────────────────
+6. DISCLAIMER OF WARRANTIES
+────────────────────────────────────────────────────────────────────────────────
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE AUTHOR DOES NOT
+WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, OR FREE OF
+SECURITY VULNERABILITIES.
+
+────────────────────────────────────────────────────────────────────────────────
+7. LIMITATION OF LIABILITY
+────────────────────────────────────────────────────────────────────────────────
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF PROFITS, DATA,
+OR BUSINESS INTERRUPTION) ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+INABILITY TO USE THE SOFTWARE, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+────────────────────────────────────────────────────────────────────────────────
+8. GOVERNING LAW
+────────────────────────────────────────────────────────────────────────────────
+
+This License shall be governed by and construed in accordance with the laws
+applicable to the jurisdiction of AXQ Design's principal place of business,
+without regard to its conflict of law provisions. Any disputes arising under
+this License shall be submitted to the exclusive jurisdiction of the courts
+in that jurisdiction.
+
+────────────────────────────────────────────────────────────────────────────────
+9. ENTIRE AGREEMENT
+────────────────────────────────────────────────────────────────────────────────
+
+This License constitutes the entire agreement between the parties with respect
+to the Software and supersedes all prior or contemporaneous understandings or
+agreements, written or oral, regarding the Software.
+
+────────────────────────────────────────────────────────────────────────────────
+CONTACT
+────────────────────────────────────────────────────────────────────────────────
+
+For licensing inquiries, permissions, or legal matters, contact:
+
+  AXQ Design — Legal Department
+  Email: legal@axqdesign.axq
+  Web:   https://axqdesign.axq/legal
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Copyright (c) 2024 AXQ Design · https://axqdesign.axq · All rights reserved.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

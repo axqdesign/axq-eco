@@ -1,0 +1,1269 @@
+{
+  "bg": {
+    "primary": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4892",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:6bf7943922e205705c050b7361cb9303ab34d703/-1:-1",
+          "targetVariableName": "white",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.929411768913269,
+          0.9450980424880981,
+          0.9686274528503418
+        ],
+        "alpha": 1,
+        "hex": "#EDF1F7"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4893",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:f018d9f16d6c7f2be4fca5406b7fdbc7cdc0c0a5/-1:-1",
+          "targetVariableName": "greyscale/100",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "tertiary": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.8941176533699036,
+          0.9137254953384399,
+          0.9490196108818054
+        ],
+        "alpha": 1,
+        "hex": "#E4E9F2"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4894",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:385456a32cf1c083fe273afc7c15ae8a48495c17/-1:-1",
+          "targetVariableName": "greyscale/200",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "inverse": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.062745101749897,
+          0.0784313753247261,
+          0.14901961386203766
+        ],
+        "alpha": 1,
+        "hex": "#101426"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4895",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:bf6a5611a06076ad2f8613e27f68638c0fd31315/-1:-1",
+          "targetVariableName": "greyscale/900",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "brand": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0,
+          0
+        ],
+        "alpha": 1,
+        "hex": "#000000"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4896",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:adbc9855906f63470c63a20d21799018fbfc001b/-1:-1",
+          "targetVariableName": "black",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.8941176533699036,
+          0.9137254953384399,
+          0.9490196108818054
+        ],
+        "alpha": 1,
+        "hex": "#E4E9F2"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4897",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:385456a32cf1c083fe273afc7c15ae8a48495c17/-1:-1",
+          "targetVariableName": "greyscale/200",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    }
+  },
+  "surface": {
+    "default": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4898",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:6bf7943922e205705c050b7361cb9303ab34d703/-1:-1",
+          "targetVariableName": "white",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "raised": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4899",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:6bf7943922e205705c050b7361cb9303ab34d703/-1:-1",
+          "targetVariableName": "white",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "overlay": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4900",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:6bf7943922e205705c050b7361cb9303ab34d703/-1:-1",
+          "targetVariableName": "white",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "sunken": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.929411768913269,
+          0.9450980424880981,
+          0.9686274528503418
+        ],
+        "alpha": 1,
+        "hex": "#EDF1F7"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4901",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:f018d9f16d6c7f2be4fca5406b7fdbc7cdc0c0a5/-1:-1",
+          "targetVariableName": "greyscale/100",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    }
+  },
+  "text": {
+    "primary": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.062745101749897,
+          0.0784313753247261,
+          0.14901961386203766
+        ],
+        "alpha": 1,
+        "hex": "#101426"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4902",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:bf6a5611a06076ad2f8613e27f68638c0fd31315/-1:-1",
+          "targetVariableName": "greyscale/900",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.18039216101169586,
+          0.22745098173618317,
+          0.3490196168422699
+        ],
+        "alpha": 1,
+        "hex": "#2E3A59"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4903",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:cf0ceb56267ef2000c78f687141ec0985c635f26/-1:-1",
+          "targetVariableName": "greyscale/500",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "tertiary": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.5607843399047852,
+          0.6078431606292725,
+          0.7019608020782471
+        ],
+        "alpha": 1,
+        "hex": "#8F9BB3"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4904",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:cf2731a9c3d339aac02b294202a358da3d69f275/-1:-1",
+          "targetVariableName": "greyscale/400",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.772549033164978,
+          0.8078431487083435,
+          0.8784313797950745
+        ],
+        "alpha": 1,
+        "hex": "#C5CEE0"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4905",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:490ff38e3deda96a4ab1efe71d23a62fd02e0434/-1:-1",
+          "targetVariableName": "greyscale/300",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "inverse": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4906",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:6bf7943922e205705c050b7361cb9303ab34d703/-1:-1",
+          "targetVariableName": "white",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "brand": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0,
+          0
+        ],
+        "alpha": 1,
+        "hex": "#000000"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4907",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:adbc9855906f63470c63a20d21799018fbfc001b/-1:-1",
+          "targetVariableName": "black",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "link": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0.5843137502670288,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#0095FF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4908",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:3bc79745ea0c5449b2a12a75a529a2e35affbd12/-1:-1",
+          "targetVariableName": "info/500",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "on-color": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4909",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:6bf7943922e205705c050b7361cb9303ab34d703/-1:-1",
+          "targetVariableName": "white",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    }
+  },
+  "icon": {
+    "primary": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.062745101749897,
+          0.0784313753247261,
+          0.14901961386203766
+        ],
+        "alpha": 1,
+        "hex": "#101426"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4910",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:bf6a5611a06076ad2f8613e27f68638c0fd31315/-1:-1",
+          "targetVariableName": "greyscale/900",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.18039216101169586,
+          0.22745098173618317,
+          0.3490196168422699
+        ],
+        "alpha": 1,
+        "hex": "#2E3A59"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4911",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:cf0ceb56267ef2000c78f687141ec0985c635f26/-1:-1",
+          "targetVariableName": "greyscale/500",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.772549033164978,
+          0.8078431487083435,
+          0.8784313797950745
+        ],
+        "alpha": 1,
+        "hex": "#C5CEE0"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4912",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:490ff38e3deda96a4ab1efe71d23a62fd02e0434/-1:-1",
+          "targetVariableName": "greyscale/300",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "inverse": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4913",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:6bf7943922e205705c050b7361cb9303ab34d703/-1:-1",
+          "targetVariableName": "white",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "brand": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0,
+          0
+        ],
+        "alpha": 1,
+        "hex": "#000000"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4914",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:adbc9855906f63470c63a20d21799018fbfc001b/-1:-1",
+          "targetVariableName": "black",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    }
+  },
+  "border": {
+    "default": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.8941176533699036,
+          0.9137254953384399,
+          0.9490196108818054
+        ],
+        "alpha": 1,
+        "hex": "#E4E9F2"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4915",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:385456a32cf1c083fe273afc7c15ae8a48495c17/-1:-1",
+          "targetVariableName": "greyscale/200",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "strong": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.5607843399047852,
+          0.6078431606292725,
+          0.7019608020782471
+        ],
+        "alpha": 1,
+        "hex": "#8F9BB3"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4916",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:cf2731a9c3d339aac02b294202a358da3d69f275/-1:-1",
+          "targetVariableName": "greyscale/400",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.929411768913269,
+          0.9450980424880981,
+          0.9686274528503418
+        ],
+        "alpha": 1,
+        "hex": "#EDF1F7"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4917",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:f018d9f16d6c7f2be4fca5406b7fdbc7cdc0c0a5/-1:-1",
+          "targetVariableName": "greyscale/100",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.8941176533699036,
+          0.9137254953384399,
+          0.9490196108818054
+        ],
+        "alpha": 1,
+        "hex": "#E4E9F2"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4918",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:385456a32cf1c083fe273afc7c15ae8a48495c17/-1:-1",
+          "targetVariableName": "greyscale/200",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "focus": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0.5843137502670288,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#0095FF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4919",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:3bc79745ea0c5449b2a12a75a529a2e35affbd12/-1:-1",
+          "targetVariableName": "info/500",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    }
+  },
+  "status": {
+    "info-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.9490196108818054,
+          0.9725490212440491,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#F2F8FF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4920",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:d7a9bc6fb3d6d26aef74d7eb72b5325432b786cf/-1:-1",
+          "targetVariableName": "info/100",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "info-default": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0.5843137502670288,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#0095FF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4921",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:3bc79745ea0c5449b2a12a75a529a2e35affbd12/-1:-1",
+          "targetVariableName": "info/500",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "info-subtle": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.25882354378700256,
+          0.6666666865348816,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#42AAFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4922",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:bb13d64e0c59e939a092db8d92c8819e521354e3/-1:-1",
+          "targetVariableName": "info/400",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "info-text": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0.34117648005485535,
+          0.7607843279838562
+        ],
+        "alpha": 1,
+        "hex": "#0057C2"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4923",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:73ec6cd83254d09d5f263769af80064cf5192873/-1:-1",
+          "targetVariableName": "info/700",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "success-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.9411764740943909,
+          1,
+          0.9607843160629272
+        ],
+        "alpha": 1,
+        "hex": "#F0FFF5"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4924",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:cafdeacea152bee3f52e78f5ee46b2206b304c9f/-1:-1",
+          "targetVariableName": "success/100",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "success-default": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0.8392156958580017,
+          0.5607843399047852
+        ],
+        "alpha": 1,
+        "hex": "#00D68F"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4925",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:725e49431f41783c28d2372aa212e07abe62761e/-1:-1",
+          "targetVariableName": "success/500",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "success-subtle": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.1725490242242813,
+          0.8980392217636108,
+          0.6078431606292725
+        ],
+        "alpha": 1,
+        "hex": "#2CE59B"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4926",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:a7d5393456ecd981e7b4e43675df5afcc8f297a2/-1:-1",
+          "targetVariableName": "success/400",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "success-text": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0,
+          0.6000000238418579,
+          0.47843137383461
+        ],
+        "alpha": 1,
+        "hex": "#00997A"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4927",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:a39eaa7ce9b24d3c7dcb405c8c0c9e0227f0b386/-1:-1",
+          "targetVariableName": "success/700",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "warning-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          0.9921568632125854,
+          0.9490196108818054
+        ],
+        "alpha": 1,
+        "hex": "#FFFDF2"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4928",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:c25bbe16dcad3b213101e8e2b3d93c87dc69f703/-1:-1",
+          "targetVariableName": "warning/100",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "warning-default": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          0.6666666865348816,
+          0
+        ],
+        "alpha": 1,
+        "hex": "#FFAA00"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4929",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:393c39f88fa5e8783affe4a77bc8ff8d30020cd1/-1:-1",
+          "targetVariableName": "warning/500",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "warning-subtle": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          0.7882353067398071,
+          0.3019607961177826
+        ],
+        "alpha": 1,
+        "hex": "#FFC94D"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4930",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:a2a2bf1d6ea5ccc80cab57161fe76e90367d93d5/-1:-1",
+          "targetVariableName": "warning/400",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "warning-text": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.7215686440467834,
+          0.4313725531101227,
+          0
+        ],
+        "alpha": 1,
+        "hex": "#B86E00"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4931",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:c9970d102be4c652c275ec64cfdf716568d61591/-1:-1",
+          "targetVariableName": "warning/700",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "error-bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          0.9490196108818054,
+          0.9490196108818054
+        ],
+        "alpha": 1,
+        "hex": "#FFF2F2"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4932",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:e9ba52de7bf5914c16e4a0879f9b9561ee156317/-1:-1",
+          "targetVariableName": "error/100",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "error-default": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          0.239215686917305,
+          0.4431372582912445
+        ],
+        "alpha": 1,
+        "hex": "#FF3D71"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4933",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:03415f2a831ac193f36b562ec15a550721243b49/-1:-1",
+          "targetVariableName": "error/500",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "error-subtle": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          0.43921568989753723,
+          0.5529412031173706
+        ],
+        "alpha": 1,
+        "hex": "#FF708D"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4934",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:4b8d0a4dcaf008b348f7def348ecb34268da12d0/-1:-1",
+          "targetVariableName": "error/400",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "error-text": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.7215686440467834,
+          0.11372549086809158,
+          0.35686275362968445
+        ],
+        "alpha": 1,
+        "hex": "#B81D5B"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4935",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:3f96de5a2ec323146cc51ab5142fe2daca6280d7/-1:-1",
+          "targetVariableName": "error/700",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    }
+  },
+  "accent": {
+    "teal": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.2862745225429535,
+          0.8588235378265381,
+          0.7843137383460999
+        ],
+        "alpha": 1,
+        "hex": "#49DBC8"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4936",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:9b8662443c57f1724d9ce49a14d115772318b5d6/-1:-1",
+          "targetVariableName": "brand/teal",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "green": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.7450980544090271,
+          1,
+          0.42352941632270813
+        ],
+        "alpha": 1,
+        "hex": "#BEFF6C"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4937",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:688bb87b3adea70155d3626ffa58edcf964ae984/-1:-1",
+          "targetVariableName": "brand/green",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "orange": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.9882352948188782,
+          0.45098039507865906,
+          0.2235294133424759
+        ],
+        "alpha": 1,
+        "hex": "#FC7339"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4938",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:a79284f242f0d145f53ef364201af7f1a11caedc/-1:-1",
+          "targetVariableName": "brand/orange",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "pink": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.9921568632125854,
+          0.6235294342041016,
+          0.8666666746139526
+        ],
+        "alpha": 1,
+        "hex": "#FD9FDD"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4939",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:abd70a02a6dcc30bbe72353346d1aee455145dbc/-1:-1",
+          "targetVariableName": "brand/pink",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "purple": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.686274528503418,
+          0.5882353186607361,
+          0.9843137264251709
+        ],
+        "alpha": 1,
+        "hex": "#AF96FB"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4940",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:0f4a1ee65ecc585258a8a88c678a8e67f137c953/-1:-1",
+          "targetVariableName": "brand/purple",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    },
+    "yellow": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          0.9450980424880981,
+          0.4470588266849518
+        ],
+        "alpha": 1,
+        "hex": "#FFF172"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4941",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:a07b783c64af72c91f37db551fb6c020a3ca2ef8/-1:-1",
+          "targetVariableName": "brand/yellow",
+          "targetVariableSetId": "VariableCollectionId:6b6218fefe175c5b7811712a8a9581b866507c3a/-1:-1",
+          "targetVariableSetName": "Primitive / Color"
+        }
+      }
+    }
+  },
+  "$extensions": {
+    "axq.axqdesign.modeName": "Light"
+  }
+}

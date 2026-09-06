@@ -1,0 +1,23 @@
+{
+  "name": "@axqdesign/axq-check-vars",
+  "version": "0.0.0",
+  "description": "AXQ CSS Variable Checker — Detect dangling --axq-* custom properties",
+  "author": { "name": "AXQ Design", "url": "https://axqdesign.axq" },
+  "license": "SEE LICENSE IN LICENSE",
+  "type": "module",
+  "bin": { "axq-check-vars": "./src/check.ts" },
+  "scripts": {
+    "run": "tsx src/check.ts"
+  },
+  "dependencies": {
+    "postcss": "^8.5.0",
+    "postcss-prefix-custom-properties": "^0.1.0",
+    "sass": "1.103.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.9.0"
+  },
+  "axqdesign": { "type": "tool", "category": "tools", "version": "0.0.0" }
+}

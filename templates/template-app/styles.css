@@ -1,0 +1,18 @@
+/**
+ * axq-app-{{name}} — Styles
+ */
+@import '@axqdesign/tokens/css';
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--axq-bg-primary);
+  color: var(--axq-text-primary);
+  font-size: var(--axq-type-body);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}

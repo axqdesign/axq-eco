@@ -1,0 +1,59 @@
+﻿{
+  "name": "@axqdesign/eco",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AXQ Design System — Official Ecosystem Workspace",
+  "author": {
+    "name": "AXQ Design",
+    "email": "studio@axqdesign.axq",
+    "url": "https://axqdesign.axq"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://axqdesign.axq",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/axqdesign/axq-eco.git"
+  },
+  "bugs": {
+    "url": "https://github.com/axqdesign/axq-eco/issues"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/@axqdesign/*",
+    "products/*",
+    "tools/@axqdesign/*",
+    "studio/*"
+  ],
+  "scripts": {
+    "build:tokens":  "pnpm --filter @axqdesign/tokens build",
+    "build:icons":   "pnpm --filter @axqdesign/icons build",
+    "build:core":    "pnpm --filter @axqdesign/core build",
+    "build:pkgs":    "pnpm --filter \"@axqdesign/icons-*\" build",
+    "build":         "pnpm run build:tokens && pnpm run build:icons && pnpm run build:core && pnpm run build:pkgs",
+    "test":          "pnpm -r test",
+    "lint":          "pnpm -r --if-present lint",
+    "clean":         "pnpm -r --if-present clean",
+    "new:app":       "node tools/scaffold/create.js app",
+    "new:package":   "node tools/scaffold/create.js package",
+    "new:studio":    "node tools/scaffold/create.js studio"
+  },
+  "engines": {
+    "node": ">=22.0.0",
+    "pnpm": ">=10.0.0"
+  },
+  "packageManager": "pnpm@10.30.3",
+  "axqdesign": {
+    "workspace": "axq-eco",
+    "version": "1.0.0",
+    "domain": "https://axqdesign.axq",
+    "tokens": "@axqdesign/tokens",
+    "copyright": "© 2024 AXQ Design. All rights reserved.",
+    "categories": {
+      "apps":     "Complete applications (web, mobile, desktop)",
+      "packages": "Reusable libraries, components, utilities",
+      "products": "Commercial AXQ products",
+      "tools":    "Internal CLI tools and automation",
+      "studio":   "Prototypes, experiments, creative work"
+    }
+  }
+}

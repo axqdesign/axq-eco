@@ -1,0 +1,22 @@
+{
+  "name": "@axqdesign/axq-generate-tokens",
+  "version": "0.0.0",
+  "description": "AXQ Token Generator — Extract token values → TypeScript types",
+  "author": { "name": "AXQ Design", "url": "https://axqdesign.axq" },
+  "license": "SEE LICENSE IN LICENSE",
+  "type": "module",
+  "bin": { "axq-generate-tokens": "./src/generate.ts" },
+  "scripts": {
+    "run": "tsx src/generate.ts",
+    "check": "tsx src/generate.ts --check"
+  },
+  "dependencies": {
+    "prettier": "^3.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.9.0"
+  },
+  "axqdesign": { "type": "tool", "category": "tools", "version": "0.0.0" }
+}

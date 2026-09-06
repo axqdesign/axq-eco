@@ -1,0 +1,363 @@
+{
+  "spacing": {
+    "none": {
+      "$type": "number",
+      "$value": 0,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4943",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:958b97f9d5f451b0de3cc00bf62dce997857e767/-1:-1",
+          "targetVariableName": "space/0",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "3xs": {
+      "$type": "number",
+      "$value": 2,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4944",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:9a3540b6a99c99b8e4514b4b37e391e7e11b1f9a/-1:-1",
+          "targetVariableName": "space/2",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "2xs": {
+      "$type": "number",
+      "$value": 4,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4945",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:cf4549e5970de9a7e145095bf1dde32f8a90e2d6/-1:-1",
+          "targetVariableName": "space/4",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "xs": {
+      "$type": "number",
+      "$value": 8,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4946",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:67b88c3935d99ec0a1c9b1ae6b82507835b246b7/-1:-1",
+          "targetVariableName": "space/8",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "sm": {
+      "$type": "number",
+      "$value": 12,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4947",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:109db139efc3bde4ea0afc551cd2a1d0c02a0a10/-1:-1",
+          "targetVariableName": "space/12",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "md": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4948",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:b4ebe2a3aa7e81390d312ec663d26ee5663be01c/-1:-1",
+          "targetVariableName": "space/16",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "lg": {
+      "$type": "number",
+      "$value": 24,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4949",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:1054fcc7fe15980d7adc13a5e38f75cd911c6d7c/-1:-1",
+          "targetVariableName": "space/24",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "xl": {
+      "$type": "number",
+      "$value": 32,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4950",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:86b03c3dbf90460b20d07fd876a90e9ae135ddce/-1:-1",
+          "targetVariableName": "space/32",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "2xl": {
+      "$type": "number",
+      "$value": 48,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4951",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:847896177902a75d6457bc48505c9033b3fb8329/-1:-1",
+          "targetVariableName": "space/48",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "3xl": {
+      "$type": "number",
+      "$value": 64,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4952",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:1cc2b03b3fd8a2de167a12e048ac2124d301af10/-1:-1",
+          "targetVariableName": "space/64",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "4xl": {
+      "$type": "number",
+      "$value": 96,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4953",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:05147b030fa7e10c534002d611e0e782226e8e29/-1:-1",
+          "targetVariableName": "space/96",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    }
+  },
+  "inset": {
+    "xs": {
+      "$type": "number",
+      "$value": 4,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4954",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:cf4549e5970de9a7e145095bf1dde32f8a90e2d6/-1:-1",
+          "targetVariableName": "space/4",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "sm": {
+      "$type": "number",
+      "$value": 8,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4955",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:67b88c3935d99ec0a1c9b1ae6b82507835b246b7/-1:-1",
+          "targetVariableName": "space/8",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "md": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4956",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:b4ebe2a3aa7e81390d312ec663d26ee5663be01c/-1:-1",
+          "targetVariableName": "space/16",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "lg": {
+      "$type": "number",
+      "$value": 24,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4957",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:1054fcc7fe15980d7adc13a5e38f75cd911c6d7c/-1:-1",
+          "targetVariableName": "space/24",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "xl": {
+      "$type": "number",
+      "$value": 32,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4958",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:86b03c3dbf90460b20d07fd876a90e9ae135ddce/-1:-1",
+          "targetVariableName": "space/32",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "2xl": {
+      "$type": "number",
+      "$value": 48,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4959",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:847896177902a75d6457bc48505c9033b3fb8329/-1:-1",
+          "targetVariableName": "space/48",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    }
+  },
+  "gap": {
+    "xs": {
+      "$type": "number",
+      "$value": 4,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4960",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:cf4549e5970de9a7e145095bf1dde32f8a90e2d6/-1:-1",
+          "targetVariableName": "space/4",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "sm": {
+      "$type": "number",
+      "$value": 8,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4961",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:67b88c3935d99ec0a1c9b1ae6b82507835b246b7/-1:-1",
+          "targetVariableName": "space/8",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "md": {
+      "$type": "number",
+      "$value": 12,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4962",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:109db139efc3bde4ea0afc551cd2a1d0c02a0a10/-1:-1",
+          "targetVariableName": "space/12",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "lg": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4963",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:b4ebe2a3aa7e81390d312ec663d26ee5663be01c/-1:-1",
+          "targetVariableName": "space/16",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    },
+    "xl": {
+      "$type": "number",
+      "$value": 24,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:4964",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:1054fcc7fe15980d7adc13a5e38f75cd911c6d7c/-1:-1",
+          "targetVariableName": "space/24",
+          "targetVariableSetId": "VariableCollectionId:3e0a9ffdc0bc434674f899ad44bf2fdd1eea7ff0/-1:-1",
+          "targetVariableSetName": "Primitive / Spacing"
+        }
+      }
+    }
+  },
+  "$extensions": {
+    "axq.axqdesign.modeName": "Default"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "extends": "manifest.json",
+  "env": "development",
+  "debug": true,
+  "workspace": {
+    "autoImportTokens": true,
+    "tokenPath": "../../Variables-axq/dist/tokens.css",
+    "hotReload": true
+  },
+  "studio": {
+    "canvas": { "width": 1440, "height": 900 },
+    "grid": { "columns": 12, "gutter": 24, "margin": 48 },
+    "breakpoints": {
+      "xs": 0,
+      "sm": 375,
+      "md": 768,
+      "lg": 1024,
+      "xl": 1280,
+      "2xl": 1440
+    }
+  },
+  "output": {
+    "format": ["css", "js", "json"],
+    "prefix": "axq",
+    "dir": "./dist"
+  }
+}

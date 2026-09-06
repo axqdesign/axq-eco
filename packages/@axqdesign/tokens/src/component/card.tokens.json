@@ -1,0 +1,155 @@
+{
+  "card": {
+    "bg": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          1,
+          1,
+          1
+        ],
+        "alpha": 1,
+        "hex": "#FFFFFF"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5025",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:8b40427ab16fdae4bd0b6e0e47a8fcf208f6ac4e/-1:-1",
+          "targetVariableName": "surface/default",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "border": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.929411768913269,
+          0.9450980424880981,
+          0.9686274528503418
+        ],
+        "alpha": 1,
+        "hex": "#EDF1F7"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5026",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:eb78f87a764a4e6bcae38e18aa884094ecf7ba6c/-1:-1",
+          "targetVariableName": "border/subtle",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "title": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.062745101749897,
+          0.0784313753247261,
+          0.14901961386203766
+        ],
+        "alpha": 1,
+        "hex": "#101426"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5027",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:19faf8514899064c1d8abda240eb4df2e8b2b58c/-1:-1",
+          "targetVariableName": "text/primary",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "description": {
+      "$type": "color",
+      "$value": {
+        "colorSpace": "srgb",
+        "components": [
+          0.18039216101169586,
+          0.22745098173618317,
+          0.3490196168422699
+        ],
+        "alpha": 1,
+        "hex": "#2E3A59"
+      },
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5028",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:a38e2f2c3fbe3981d9bb767294c4384b70cf4f9e/-1:-1",
+          "targetVariableName": "text/secondary",
+          "targetVariableSetId": "VariableCollectionId:85e0fd21450a8714dd9d27f7055745d946eec8d6/-1:-1",
+          "targetVariableSetName": "Semantic / Color"
+        }
+      }
+    },
+    "padding": {
+      "$type": "number",
+      "$value": 24,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5029",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:8330230c5b24a840518ce82f9ffcb2e86165c441/-1:-1",
+          "targetVariableName": "inset/lg",
+          "targetVariableSetId": "VariableCollectionId:1ec608041269636195dc26fa5486efcfffbe7853/-1:-1",
+          "targetVariableSetName": "Semantic / Spacing"
+        }
+      }
+    },
+    "gap": {
+      "$type": "number",
+      "$value": 12,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5030",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:ecd785c915d6b10d0589908e5342de592aacecba/-1:-1",
+          "targetVariableName": "gap/md",
+          "targetVariableSetId": "VariableCollectionId:1ec608041269636195dc26fa5486efcfffbe7853/-1:-1",
+          "targetVariableSetName": "Semantic / Spacing"
+        }
+      }
+    },
+    "radius": {
+      "$type": "number",
+      "$value": 16,
+      "$extensions": {
+        "axq.axqdesign.variableId": "VariableID:18:5031",
+        "axq.axqdesign.scopes": [
+          "ALL_SCOPES"
+        ],
+        "axq.axqdesign.aliasData": {
+          "targetVariableId": "VariableID:757a7e1e17ec5d956026686f6789b11fc4f568aa/-1:-1",
+          "targetVariableName": "radius/card",
+          "targetVariableSetId": "VariableCollectionId:9c0980d2b1fa47d0dc4c430373f66f7c76e357fd/-1:-1",
+          "targetVariableSetName": "Semantic / Radius"
+        }
+      }
+    }
+  },
+  "$extensions": {
+    "axq.axqdesign.modeName": "Default"
+  }
+}
